@@ -77,6 +77,4 @@ proguard/
 *.log
 
 # From Android Studio
-/local.properties
-/.idea/workspace.xml
-.DS_Store
+.idea/workspace.xml
